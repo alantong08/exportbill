@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/5.2.1/vcsMetadata-1/
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/exportbill.iml
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/vcs.xml
+build/generated/
+build/resources/main/json/
+build/tmp/compileJava/
+src/main/resources/json/
+src/test/
